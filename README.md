@@ -2,6 +2,7 @@
 **Fecha:**          *Sábado 8 de Diciembre de 2012*  
 **Asignatura:**     *Lenguajes y Paradigmas de la Programación.*  
 **Práctica:**       **Laboratorio 10 :** *Creación de una Gema - Segunda Parte (Bundler)*  
+**URL_GEM:**		[https://rubygems.org/gems/game-tictactoe-alu3299](https://rubygems.org/gems/game-tictactoe-alu3299) 
 
 ##Pasos
 
@@ -12,7 +13,7 @@ El objetivo de esta práctica es la construcción y publicación de una Gema en 
 1. Desarrollar un método para hacer que dos jugadores arbitrarios compitan.  
 2. Desarrollar un jugador minimax.  
 3. Construir la gema.  
-`gem build`  
+`gem build game-tictactoe-alu3299.gemspec`  
 4. Considerar su publicacion.  
-`gem push`  
+`gem push game-tictactoe-alu3299-0.0.1.gem`  
 5. Indique la URL del repositorio github o bitbucket que ha desarrollado.  
